@@ -18,6 +18,6 @@ void print_number(int n);
 void _putchar(char);
 void _isupper(int);
 void _isdigit(int);
-void null(int);
+void mul(int, int);
 
 #endif /* MAIN_H */
